@@ -57,9 +57,9 @@ If you find this work useful for your research, please consider citing us:
 
 >```
 >@inproceedings{Ting2020Interpreting,
->	author = {Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and Yi Yang}, 
->	title = {Interpreting Twitter User Geolocation}, 
+> author = {Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and Yi Yang}, 
+> title = {Interpreting Twitter User Geolocation},
 > booktitle = {the 58th Annual Meeting of the Association for Computational Linguistics (ACL)}, 
-> year = {2020}, 
+> year = {2020},
 >}
 >```
